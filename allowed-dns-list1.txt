@@ -40,3 +40,4 @@ gstatic.com
 bing.com
 fortiguard.net
 lencr.org
+*.bitdefender.com
