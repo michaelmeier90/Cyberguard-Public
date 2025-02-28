@@ -105,6 +105,8 @@ snapcraft.io
 *.snapcraft.io
 docker.io
 *.docker.io
+docker.com
+*.docker.com
 quay.io
 *.quay.io
 registry-1.docker.io
