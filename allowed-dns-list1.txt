@@ -3,6 +3,8 @@ microsoft.com
 *.microsoft.com
 windowsupdate.com
 *.windowsupdate.com
+azure.com
+*.azure.com
 azurefd.net
 *.azurefd.net
 msidentity.com
@@ -31,6 +33,8 @@ msauth.net
 *.msauth.net
 microsoftonline-p.com
 *.microsoftonline-p.com
+trafficmanager.net
+*.trafficmanager.net
 
 
 # Cloud & CDN Services
