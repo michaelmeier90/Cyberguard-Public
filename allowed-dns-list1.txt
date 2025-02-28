@@ -191,6 +191,8 @@ cgegva.lan
 *.cgegva.lan
 in-addr.arpa
 *.in-addr.arpa
+spf-record.com
+*.spf-record.com
 
 # Dev Tools
 jspm.dev
