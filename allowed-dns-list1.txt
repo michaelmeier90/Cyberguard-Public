@@ -5,6 +5,8 @@ windowsupdate.com
 *.windowsupdate.com
 azure.com
 *.azure.com
+azureedge.net
+*.azureedge.net
 azurefd.net
 *.azurefd.net
 msidentity.com
@@ -46,12 +48,19 @@ skype.com
 *.skype.com
 msftncsi.com
 *.msftncsi.com
+microsoftapp.net
+*.microsoftapp.net
+msn.com
+*.msn.com
+
 
 
 
 # Cloud & CDN Services
 amazonaws.com
 *.amazonaws.com
+usabilla.com
+*.usabilla.com
 edgekey.net
 *.edgekey.net
 akamai.net
@@ -102,6 +111,13 @@ bing.com
 pki.goog
 *.pki.goog
 *.google.*
+*.gvt*.com
+*.*gvt*.com
+googleagmanager.com
+*.googleaganager.com
+google-analytics.com
+*.google-analytics.com
+jspm
 
 # Linux & Open Source
 ubuntu.com
@@ -175,3 +191,21 @@ cgegva.lan
 *.cgegva.lan
 in-addr.arpa
 *.in-addr.arpa
+
+# Dev Tools
+jspm.dev
+*.jspm.dev
+jspm.org
+*.jspm.org
+cloudinary.com
+*.cloudinary.com
+
+# Other software
+adobedtm.com
+*.adobedtm.com
+adobe.com
+*.adobe.com
+notepad-plus-plus.org
+*.notepad-plus-plus.org
+
+
