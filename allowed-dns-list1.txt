@@ -19,6 +19,8 @@ msedge.net
 *.msedge.net
 vscode-cdn.net
 *.vscode-cdn.net
+live.com
+*.live.com
 office365.com
 *.office365.com
 office.com
