@@ -19,6 +19,7 @@ windows.com
 *.windows.com
 msedge.net
 *.msedge.net
+*.*msedge.net
 vscode-cdn.net
 *.vscode-cdn.net
 live.com
@@ -43,6 +44,8 @@ msappproxy.net
 *.msappproxy.net
 skype.com
 *.skype.com
+msftncsi.com
+*.msftncsi.com
 
 
 
@@ -55,6 +58,8 @@ akamai.net
 *.akamai.net
 akamaiedge.net
 *.akamaiedge.net
+akadns.net
+*.akadns.net
 fortinet.com
 *.fortinet.com
 fortiguard.net
