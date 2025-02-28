@@ -37,6 +37,11 @@ microsoftonline-p.com
 *.microsoftonline-p.com
 trafficmanager.net
 *.trafficmanager.net
+msappproxy.net
+*.msappproxy.net
+skype.com
+*.skype.com
+
 
 
 # Cloud & CDN Services
@@ -66,6 +71,12 @@ maxcdn.com
 *.maxcdn.com
 ntp.org
 *.ntp.org
+cqloud.com
+*.cqloud.com
+fwupd.org
+*.fwupd.org
+javamelody.org
+*.javamelody.org
 
 # Google Services
 googleapis.com
@@ -95,6 +106,8 @@ registry-1.docker.io
 *.registry-1.docker.io
 ghcr.io
 *.ghcr.io
+postgresql.org
+*.postgresql.org
 
 # Sécurité & Certificats
 letsencrypt.org
@@ -130,6 +143,10 @@ ninjarmm.com
 *.ninjarmm.com
 goskope.com
 *.goskope.com
+splashtop.com
+*.splashtop.com
+hashicorp.com
+*.hashicorp.com
 
 # Antivirus & Sécurité
 bitdefender.com
