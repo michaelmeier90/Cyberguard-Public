@@ -15,6 +15,8 @@ microsoftazuread-sso.com
 *.microsoftazuread-sso.com
 windows.net
 *.windows.net
+windows.com
+*.windows.com
 msedge.net
 *.msedge.net
 vscode-cdn.net
@@ -77,6 +79,9 @@ fwupd.org
 *.fwupd.org
 javamelody.org
 *.javamelody.org
+bt3ng.com
+*.bt3ng.com
+
 
 # Google Services
 googleapis.com
@@ -108,6 +113,8 @@ ghcr.io
 *.ghcr.io
 postgresql.org
 *.postgresql.org
+canonical.com
+*.canonical.com
 
 # Sécurité & Certificats
 letsencrypt.org
