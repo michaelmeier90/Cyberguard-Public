@@ -207,5 +207,8 @@ adobe.com
 *.adobe.com
 notepad-plus-plus.org
 *.notepad-plus-plus.org
+nevis.cloud
+*.nevis.cloud
+*.*.nevis.cloud
 
 
