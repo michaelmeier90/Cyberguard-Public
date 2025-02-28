@@ -64,6 +64,8 @@ cdn77.com
 *.cdn77.com
 maxcdn.com
 *.maxcdn.com
+ntp.org
+*.ntp.org
 
 # Google Services
 googleapis.com
