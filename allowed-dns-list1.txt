@@ -30,6 +30,7 @@ office365.com
 *.office365.com
 office.com
 *.office.com
+*.office.net
 onenote.com
 *.onenote.com
 sharepoint.com
@@ -212,5 +213,9 @@ notepad-plus-plus.org
 nevis.cloud
 *.nevis.cloud
 *.*.nevis.cloud
+psw.parallels.com
+*.parallels.com
+7-zip.org
+*.7-zip.org
 
 
