@@ -76,6 +76,8 @@ fortiguard.net
 *.fortiguard.net
 cloudflare.com
 *.cloudflare.com
+cloudfront.net
+*.cloudfont.net
 akamaihd.net
 *.akamaihd.net
 fastly.net
@@ -165,6 +167,10 @@ globalsign.com
 *.globalsign.com
 verisign.com
 *.verisign.com
+github.com
+*.github.com
+githubusercontent.com
+*.githubusercontent.com
 
 
 # Monitoring & IT Tools
