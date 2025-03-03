@@ -217,5 +217,7 @@ psw.parallels.com
 *.parallels.com
 7-zip.org
 *.7-zip.org
+howsmyssl.com
+*.howsmyssl.com
 
 
