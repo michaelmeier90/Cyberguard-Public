@@ -200,6 +200,8 @@ in-addr.arpa
 *.in-addr.arpa
 spf-record.com
 *.spf-record.com
+cite-access.com
+*.cite-access.com
 
 # Dev Tools
 jspm.dev
