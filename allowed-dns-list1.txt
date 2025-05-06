@@ -229,3 +229,30 @@ howsmyssl.com
 *.howsmyssl.com
 
 
+#SPECIFIC
+fts-sftp.factset.com
+f41.pictet.com
+ftp-gateway.credit-suisse.com
+m2trans1.cofex.ch
+xfer.quintet.com
+mft-sftp.juliusbaer.com
+bankingapi.swissquote.ch
+ftp.lodh.net
+smft.lgt.com
+sftp1.lgt.com
+sftp.mbczh.ch
+sftp.bordier.com
+sftp-keyport-lu.ubs.com
+securedata.gotonet.ch
+repository.pbgate.net
+prodf2.vpbank.com
+myconnectfile.ubp.com
+mft.vontobel.com
+mft.quintet.com
+mft.efgbank.com
+gf-sftp.sfg.bnymellon.com
+exchangefiles.syzgroup.com
+ebics2.credit-suisse.com
+ebics.ubs.com
+dataexchange.mdcie.com
+Connect-pico.pictet.com
