@@ -190,6 +190,8 @@ bitdefender.com
 *.bitdefender.com
 bitdefender.net
 *.bitdefender.net
+gravityzone.bitdefender.com
+*.gravityzone.bitdefender.com
 
 # Réseaux Internes & Entreprises
 bechtle-sr.ch
