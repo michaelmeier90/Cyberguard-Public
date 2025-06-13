@@ -233,6 +233,7 @@ howsmyssl.com
 
 #SPECIFIC
 fts-sftp.factset.com
+fts-sftp.wide.factset.com
 f41.pictet.com
 ftp-gateway.credit-suisse.com
 m2trans1.cofex.ch
