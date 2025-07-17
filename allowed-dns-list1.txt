@@ -192,6 +192,10 @@ bitdefender.net
 *.bitdefender.net
 gravityzone.bitdefender.com
 *.gravityzone.bitdefender.com
+globalaptctrl.fortinet.net
+*.globalaptctrl.fortinet.net
+fortinet.net
+*.fortinet.net
 
 # Réseaux Internes & Entreprises
 bechtle-sr.ch
