@@ -264,5 +264,7 @@ ebics.ubs.com
 dataexchange.mdcie.com
 Connect-pico.pictet.com
 mft.lodh.net
+sftp-keyport-ch.ubs.com
+ 
 *.e-novinfo.ch
 
