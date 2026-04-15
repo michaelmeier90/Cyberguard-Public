@@ -267,4 +267,5 @@ mft.lodh.net
 sftp-keyport-ch.ubs.com
  
 *.e-novinfo.ch
+*.ch-secure.ch
 
